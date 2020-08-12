@@ -1,0 +1,13 @@
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180408/lz_201804080612_000194_005512_raw.root,  194,  2959996
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180412/lz_201804122348_000208_006932_raw.root,  208,  3722521
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180415/lz_201804150754_000215_007022_raw.root,  215,  3770873
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180415/lz_201804151026_000216_002093_raw.root,  216,  1124017
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180420/lz_201804200423_000230_003841_raw.root,  230,  2062654
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180420/lz_201804200905_000231_000858_raw.root,  231,  460748
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180422/lz_201804221958_000238_003457_raw.root,  238,  1852976
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180423/lz_201804230728_000239_006598_raw.root,  239,  3536593
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180423/lz_201804231015_000240_001902_raw.root,  240,  1019476
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180423/lz_201804231219_000240_003771_raw.root,  240,  2021296
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180427/lz_201804270404_000251_003534_raw.root,  251,  1894273
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180429/lz_201804291530_000258_006607_raw.root,  258,  3541425
+/global/cfs/cdirs/lz/data/MDC3/background/BACCARAT-4.11.0_DER-8.5.13/20180430/lz_201804300456_000260_004296_raw.root,  260,  2302691
